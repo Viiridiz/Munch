@@ -3,11 +3,11 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-## 🚀 About This Project
+## About This Project
 
 > Munch helps you find the perfect recipe in seconds! Just input your ingredients, dietary preferences, or allergies, and our AI curates delicious options tailored to you. With a built-in health meter, cooking timer, and a seamless login system, Munch makes meal planning effortless and enjoyable.
 
-## ✨ Key Features
+## Key Features
 
 * **Smart Recipe Search:** Find recipes by ingredients, dietary needs (e.g., vegan, gluten-free), or allergies.
 * **AI-Powered Curation:** Uses the **OpenAI API** to generate and curate delicious, tailored recipe options.
