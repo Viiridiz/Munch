@@ -19,7 +19,6 @@
 
 * **Frontend:** React.js
 * **AI:** OpenAI API
-* **[Add other technologies here, e.g., Node.js, Firebase, CSS Framework, etc.]**
 
 ## 🏁 Getting Started
 
